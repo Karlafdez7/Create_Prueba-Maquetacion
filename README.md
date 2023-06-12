@@ -40,6 +40,7 @@ Uso de animaciones para links.
 </div>
 </br>
 
+- Inicio de la maquetación general según las imagenes dadas:
 ### Pasos a seguir cada vez que queremos arrancar un proyecto desde cero:
 
 1. **Crea tu propio repositorio.**
