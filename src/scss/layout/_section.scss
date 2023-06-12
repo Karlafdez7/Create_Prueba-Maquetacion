@@ -1,0 +1,32 @@
+.main__section{
+    padding: 1rem;
+    &-article{
+        margin-bottom: 1rem;
+        &.article-modifier {
+            border-top: solid 1px black;
+            border-bottom: solid 1px black;
+        }
+    }
+    &-titre{
+        font-size: 1.4rem;
+        font-weight: 500;
+        margin:1rem 0 0.5rem;
+        @media (min-width:500px){
+            font-size: 1.6rem;
+        }
+        @media (min-width:1024px){
+            font-size: 1.8rem;
+        }
+    }
+    &-text{
+        font-size: 0.9rem;
+        &.text-modifier{
+            border-left: solid 3px rgb(188, 181, 181);
+            margin: 0 1rem 1rem 1.5rem;
+            padding-left: 0.8rem;
+        }
+        @media (min-width:500px) {
+            font-size: 1rem;
+        }
+    }
+}

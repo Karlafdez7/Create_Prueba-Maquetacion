@@ -1,0 +1,17 @@
+@import 'layout/section';
+@import 'layout/aside';
+
+.main{
+    height: 70vh;
+    width: 100%;
+    background-color: white;
+    @media (min-width:1024px) {
+        height: 80vh;
+        width: 90%;
+        margin: auto;
+        display: grid;
+        grid-template-columns: 70% 30%;
+
+    }
+}
+
