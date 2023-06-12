@@ -31,6 +31,15 @@ Uso de animaciones para links.
 </div>
 </br>
 
+##Desarrollo del proyecto:
+
+- Organización del proyecto: uso de la herramienta "project" de Github
+
+<div align="center">
+<img width="65%" height="75%" src="https://github.com/Karlafdez7/Create_Prueba-Maquetacion/blob/main/di%CC%81a%204.1.png?raw=true" alt="cover" />
+</div>
+</br>
+
 ### Pasos a seguir cada vez que queremos arrancar un proyecto desde cero:
 
 1. **Crea tu propio repositorio.**
