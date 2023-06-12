@@ -41,6 +41,16 @@ Uso de animaciones para links.
 </br>
 
 - Inicio de la maquetación general según las imagenes dadas:
+
+<div align="center">
+
+<img width="25%" height="35%" src="https://github.com/Karlafdez7/Create_Prueba-Maquetacion/blob/main/mo%CC%81vil.jpg?raw=true" alt="cover" />
+</br>
+<img width="65%" height="75%" src="https://github.com/Karlafdez7/Create_Prueba-Maquetacion/blob/main/descktop.jpg?raw=true" alt="cover" />
+</br>
+</div>
+</br>
+
 ### Pasos a seguir cada vez que queremos arrancar un proyecto desde cero:
 
 1. **Crea tu propio repositorio.**
