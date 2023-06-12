@@ -1,20 +1,26 @@
-![Adalab](https://beta.adalab.es/resources/images/adalab-logo-155x61-bg-white.png)
+# PRUEBA DE MAQUETACIÓN: CREATE
 
-# Adalab web starter kit
+Prueba de maquetación para la empresa Create. Uso de **HTML y SASS**.
 
-Ahoy! Este es nuestro Starter Kit creado en **node y gulp**. ¿Y qué es un Starter kit? Pues es una **plantilla de proyecto con funcionalidades preinstaladas y preconfiguradas**.
+## Herramientas usadas:
 
-Este Kit incluye un motor de plantillas HTML, el preprocesador SASS y un servidor local y muchas cosas más. El Kit nos ayuda a trabajar más cómodamente, nos automatiza tareas.
+- VISUAL STUDIO CODE (VSC) 🗄️
+- HTML 📌
+- CSS 🕹️
+- GIT / GITHUB 📂
+- SASS / SCSS 🔗
+- GULP 🖌️
 
-En el Kit hay 3 tipos de ficheros y carpetas:
 
-- Los ficheros que están sueltos en la raíz del repositorio, como gulpfile.js, package.json... Son la configuración del proyecto y no necesitamos modificarlos.
-- La carpeta `src/`: son los ficheros de nuestra página web, como HTML, CSS, JS...
-- Las carpetas `public/` y `docs/`, que son generadas automáticamente cuando arrancamos el proyecto. El Kit lee los ficheros que hay dentro de `src/`, los procesa y los genera dentro de `public/` y `docs/`.
+## Proyecto requerido:
+Ejercicio de maquetación en base a imagenes dadas.
 
-## Guía de inicio rápido
+Uso de HTML y Sass con atención al detalle.
+Uso de flexboox y Grid para una mejor aduación.
+Uso de media queries: Dispositivos móviles, tablets y desktop.
+Uso de animaciones para links.
 
-> **NOTA:** Necesitas tener instalado [Node JS](https://nodejs.org/) para trabajar con este Starter Kit:
+
 
 ### Pasos a seguir cada vez que queremos arrancar un proyecto desde cero:
 
