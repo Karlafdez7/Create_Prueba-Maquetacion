@@ -20,7 +20,16 @@ Uso de flexboox y Grid para una mejor aduación.
 Uso de media queries: Dispositivos móviles, tablets y desktop.
 Uso de animaciones para links.
 
-
+<div align="center">
+<p> 
+   imagenes ofrecidas:
+</p>
+<img width="25%" height="35%" src="![image](https://github.com/Karlafdez7/Create_Prueba-Maquetacion/assets/117937312/7e4ba6db-5117-401e-a937-2d940abe1be8)" alt="cover" />
+</br>
+<img width="65%" height="75%" src="[https://github.com/Karlafdez7/sport_Shop/blob/main/src/images/tablet.png?raw=true](https://github.com/Karlafdez7/Create_Prueba-Maquetacion/blob/main/desktop.png?raw=true)" alt="cover" />
+</br>
+</div>
+</br>
 
 ### Pasos a seguir cada vez que queremos arrancar un proyecto desde cero:
 
