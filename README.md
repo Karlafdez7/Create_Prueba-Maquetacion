@@ -51,6 +51,40 @@ Uso de animaciones para links.
 </div>
 </br>
 
+- Resultado de la prueba:
+
+<div align="center">
+<p> Versión móvil libre:
+</p>
+<img width="25%" height="35%" src="https://github.com/Karlafdez7/Create_Prueba-Maquetacion/blob/main/src/images/images_versions/1%20mobil-free.png?raw=true" alt="cover" />
+</br>
+<p> Versión iphone 12:
+</p>
+<img width="25%" height="35%" src="https://github.com/Karlafdez7/Create_Prueba-Maquetacion/blob/main/src/images/images_versions/2%20mobil-iphone12.png?raw=true" alt="cover" />
+</br>
+</div>
+</br>
+
+<div align="center">
+<p> Versión tablet libre:
+</p>
+<img width="45%" height="55%" src="https://github.com/Karlafdez7/Create_Prueba-Maquetacion/blob/main/src/images/images_versions/3%20tablet-free.png?raw=true" alt="cover" />
+</br>
+<p> Versión ipad air:
+</p>
+<img width="45%" height="55%" src="https://github.com/Karlafdez7/Create_Prueba-Maquetacion/blob/main/src/images/images_versions/4%20tablet-air.png?raw=true" alt="cover" />
+</br>
+</div>
+</br>
+
+<div align="center">
+<p> Versión desktop libre:
+</p>
+<img width="65%" height="75%" src="https://github.com/Karlafdez7/Create_Prueba-Maquetacion/blob/main/src/images/images_versions/5%20desktop-fre.png?raw=true" alt="cover" />
+</br>
+</div>
+</br>
+
 ### Pasos a seguir cada vez que queremos arrancar un proyecto desde cero:
 
 1. **Crea tu propio repositorio.**
